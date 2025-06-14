@@ -1,1 +1,1 @@
-# chur-modeling-app
+# churn-modeling-app
